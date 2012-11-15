@@ -1,0 +1,8 @@
+statisticians 统计学家
+probability 概率
+distribution 分布
+normal distribution 正态分布
+stat-hackers 统计高手
+sample 样本
+scores 分数
+significance testing 显著性检验
