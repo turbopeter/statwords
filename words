@@ -1,7 +1,6 @@
-Classical Test Theory;古典测试理论
-Law of Large Numbers;大数定律
 attitude scale;态度量表
 central limit theorem;中心极限定理
+classical test theory;古典测试理论
 confidence interval;置信区间
 descriptive statistics;描述统计学
 distribution;分布
@@ -10,10 +9,11 @@ guesses;猜测
 inferential statistics;推论统计学
 interval measures;定距测量
 interval scaling;等距量表
+law of large numbers;大数定律
 levels of measurement;测量层次
 likelihood;可能性
 mean;均值
-nominal measures; 定类测量
+nominal measures;定类测量
 normal distribution;正态分布
 null hypothesis;零假设
 odds;几率
@@ -29,6 +29,6 @@ significance testing;显著性检验
 standard deviation;标准差
 standard error;标准偏差
 stat-hackers;统计高手
-statisticians;统计学家
 statistical power;统计功效
+statisticians;统计学家
 statistics;统计学
